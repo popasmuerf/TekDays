@@ -1,0 +1,17 @@
+1. full document search not enabled(issue with searchable grails plugin)
+2. volunteer button does not work
+3. Try and upgrade to grails 3 (try gradually at first, and if that fails..just jump in)
+   for the purpose of:
+        3.1 updating app engine
+        3.2 updating to a current app engine version may help us with our plugin issues
+
+4. Add Twitter functionality such that users can login to their dashboards and  post event updates to their twitter feeds.
+
+5. User-Friendly URLs don't work...namely because there is no place
+in the event creation forms to set the nick-name field.  I think
+I am going to go about this in an entirely different way....we shall
+see...
+
+6. We need a feature where people can register
+
+7. We need to implement Spring security

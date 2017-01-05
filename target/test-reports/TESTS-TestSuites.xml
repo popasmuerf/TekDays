@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="cern" id="0" name="SponsorSpec" package="com.tekdays" skipped="0" tests="1" time="0.107" timestamp="2016-12-09T11:31:37">
+      <properties />
+
+      <testcase classname="com.tekdays.SponsorSpec" name="test toString" time="0.103" />
+
+      <system-out><![CDATA[--Output from test toString--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test toString--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="cern" id="1" name="TaskSpec" package="com.tekdays" skipped="0" tests="1" time="0.317" timestamp="2016-12-09T11:31:36">
+      <properties />
+
+      <testcase classname="com.tekdays.TaskSpec" name="test toString" time="0.301" />
+
+      <system-out><![CDATA[--Output from test toString--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test toString--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="cern" id="2" name="TekEventSpec" package="com.tekdays" skipped="0" tests="1" time="0.138" timestamp="2016-12-09T11:31:36">
+      <properties />
+
+      <testcase classname="com.tekdays.TekEventSpec" name="test toString" time="0.119" />
+
+      <system-out><![CDATA[--Output from test toString--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test toString--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="cern" id="3" name="TekUserSpec" package="com.tekdays" skipped="0" tests="1" time="0.108" timestamp="2016-12-09T11:31:36">
+      <properties />
+
+      <testcase classname="com.tekdays.TekUserSpec" name="test toString" time="0.099" />
+
+      <system-out><![CDATA[--Output from test toString--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test toString--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

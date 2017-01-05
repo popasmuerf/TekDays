@@ -1,0 +1,60 @@
+Full Name
+John Doe
+User Name
+jdoe
+Email
+jdoe@johnsgroovyshop.com
+Website
+blog.johnsgroovyshop.com
+Bio
+John has been programming for over 40 years. He has worked with every programming language known to man and has settled on Groovy. In his spare time, John dabbles in astro physics and plays shuffleboard.
+Password
+t0ps3cr3t
+
+===================================================================
+
+Full Name
+John Deere
+User Name
+tractorman
+Email
+john.deere@porkproducers.org
+Website
+www.perl.porkproducers.org
+Bio
+John is a top notch Perl programmer and a pretty good hand around the farm. If he can't program it he can plow it!
+Password
+t0ps3cr3t
+
+
+===================================================
+
+
+Full Name
+Bill Smith
+User Name
+Mr_Bill
+Email
+mrbill@email.com
+Website
+www.mrbillswebsite.com
+Bio
+Software developer, claymation artist.
+Password
+12345
+
+
+======================================================
+
+Full Name
+Sarah Martin
+User Name
+sarah
+Email
+sarah@martinworld.com
+Website
+www.martinworld.com
+Bio
+Web designer and Grails afficianado.
+Password
+54321
